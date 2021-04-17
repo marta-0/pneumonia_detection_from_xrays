@@ -74,7 +74,7 @@ The first part of this project involve exploratory data analysis (EDA) to unders
 
 ![pneumonia comorbidities](/images/Pneumonia&#32;comorbidities.png)
 
-### 2. [Building and Training Your Model](Build&#32;and&#32;train&#32;your&#32;model.ipynb)
+### 2. [Building and Training Your Model](Build&#32;and&#32;train&#32;model.ipynb)
 
 VGG16 pretrained on ImageNet is used. Classifier layers are added and trained, the last convolutional layer of the original VGG16 architecture is fine-tuned. After training the model performance is evaluated.
 
