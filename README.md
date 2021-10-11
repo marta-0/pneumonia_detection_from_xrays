@@ -2,7 +2,7 @@
 
 This project is part of the **Udacity AI for Healthcare** nanodegree program.
 
-The **Project Overview**, **Pneumonia and X-Rays in the Wild** and **About the Dataset** sections below are taken from the starter description of the project delivered by Udacity. The **Project Steps** section has been amended and is complemendet by my comments and contains my results. 
+The **Project Overview**, **Pneumonia and X-Rays in the Wild** and **About the Dataset** sections below are taken from the starter description of the project delivered by Udacity. The **Project Steps** section has been amended and is complemented by my comments and contains my results. 
 
 ## Project Overview
 
@@ -65,7 +65,7 @@ Pixel Spacing.
 
 ### 1. [Exploratory Data Analysis](EDA.ipynb)
 
-The first part of this project involve exploratory data analysis (EDA) to understand and describe the content and nature of the data. This includes:
+The first part of this project involves exploratory data analysis (EDA) to understand and describe the content and nature of the data. This includes:
 
 * The patient demographic data analysis
 * The distribution of other diseases that are comorbid with pneumonia
